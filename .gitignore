@@ -2,3 +2,4 @@ data
 *pdb
 __*
 mypy.ini
+.ipynb_checkpoints/
